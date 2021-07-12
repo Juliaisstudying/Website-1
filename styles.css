@@ -51,6 +51,7 @@ body {
 .logo-text > h1 {
   color:#fff;
   font-size: 4rem;
+  font: bold italic 3rem/3.5rem arial;
   /* text-shadow: 0 0 17px #5c99c0, 0 0 10px #636362 */
 }
 
